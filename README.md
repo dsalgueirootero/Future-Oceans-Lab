@@ -1,3 +1,3 @@
 # Future-Oceans-Lab
-Future Oceans Lab
-Welcome to Future Ocean Lab!
+Welcome to Future Oceans Lab!
+
