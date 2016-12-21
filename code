@@ -4,6 +4,7 @@ library(dplyr)
 library(shinythemes)
 library(DT)
 library(leaflet)
+#hola que tal
 
 labnameR <- read.csv("labnameR.csv", stringsAsFactors = FALSE)
 
