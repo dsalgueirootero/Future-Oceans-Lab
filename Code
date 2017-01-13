@@ -6,8 +6,6 @@ library(shinythemes)
 library(DT)
 library(leaflet)
 
-## here I´m !
-
 labnameR <- read.csv("labnameR.csv", stringsAsFactors = FALSE)
 
 ui <- fluidPage(theme=shinytheme("cerulean"),
